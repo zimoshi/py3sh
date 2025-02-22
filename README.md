@@ -1,7 +1,14 @@
 
 # Py3Sh - Python Shell Script Generator
 
-Py3Sh makes it easy to generate executable shell scripts for running Python programs.
+
+🚀 **Py3Sh** is a lightweight tool that generates executable shell scripts for running Python programs. It simplifies script execution by eliminating the need to manually type `python3 script.py`. 
+
+### **✨ Features**
+- ✅ **Automatic script generation** – Converts Python scripts into runnable shell scripts.  
+- ✅ **No `./` required** – Generates globally executable commands.  
+- ✅ **Easy installation** – One command setup.  
+- ✅ **Supports arguments** – Pass parameters seamlessly to your Python scripts.  
 
 ## 🚀 Installation
 
