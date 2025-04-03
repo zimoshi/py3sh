@@ -35,7 +35,7 @@ my_runner
 If you have some `argv`, just include it in the order you want!
 
 ```sh
-py3sh my_script.py my_runner 1 2 3
+py3sh my_script.py my_runner \$1 \$2 \$3
 ```
 
 Result:
